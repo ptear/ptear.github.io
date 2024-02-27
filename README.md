@@ -1,1 +1,4 @@
-# ptear.github.io
+# Data Scientist
+
+### Education
+MSc Data Science, University of Bath
