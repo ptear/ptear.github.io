@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Databricks, MATLAB
 
 ## Education					       		
-- MSc Data Science | University of Bath (_September 2021 - June 2022_) | Distinction
-- BSc Mathematical Sciences | University of Bath (_September 2015 - June 2019_) | Upper Second Class
+MSc Data Science | University of Bath (_September 2021 - June 2022_) | Distinction
+BSc Mathematical Sciences | University of Bath (_September 2015 - June 2019_) | Upper Second Class
 
 ## Work Experience
 **Data Scientist @ Decathlon UK (_June 2022 - Present_)**
